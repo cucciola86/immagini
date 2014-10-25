@@ -1,0 +1,11 @@
+<Button
+         android:id="@+id/protettori"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_below="@+id/imageterrazza"
+         android:layout_centerHorizontal="true"
+         android:layout_marginTop="14dp"
+         android:background="@drawable/custom_sfondoboss"
+         android:drawableLeft="@drawable/custom_"
+         android:text="@string/"
+	 android:textColor="@color/oro" />
